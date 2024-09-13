@@ -14,3 +14,11 @@ In this project, I used SQL to combine data from two tables, facebook_ads_basic_
 
 <img width="949" alt="Combining Facebook and Google Ads Data" src="https://github.com/user-attachments/assets/a61ec16d-7411-4278-a1ce-d60f2aea5439">
 
+## Project 3: Campaign Performance Analysis Across Facebook and Google Ads
+In this project, I combined data from four tables, and using CTEs, I merged Facebook and Google Ads data to analyze campaign performance. The query calculated daily metrics like spend, impressions, clicks, and conversion value, grouped by date, media source, campaign, and ad set.
+
+This analysis provided a unified view of ad performance across both platforms.
+
+[View SQL query](https://github.com/shvetsihorr/SQL-Projects/blob/8c691946f583ff8cdaac92385f00fc1b2ad7282c/SQL%20script%20Campaign%20Performance%20Analysis%20Facebook%20and%20Google%20Ads.sql)
+
+<img width="1208" alt="Campaign Performance Analysis Facebook and Google Ads" src="https://github.com/user-attachments/assets/82395a5c-8866-4f4c-a58e-68da97324756">
