@@ -52,6 +52,16 @@ In this SQL query, I introduced a calculation to compare CPM, CTR, and ROMI perf
 
 <img width="1468" alt="Calculating Month-over-Month Differences for CPC, CPM, and ROMI by UTM Campaign" src="https://github.com/user-attachments/assets/694c658d-00c4-485e-98dd-3b5a09dac02a">
 
+## Project 5: Data Preparation for BI Reporting using Google BigQuery
+
+In this project, I practiced writing SQL queries in BigQuery using the free Google Analytics 4 (GA4) dataset. My focus was on analyzing eCommerce funnel progression.
+
+[View Project on Google BigQuery](https://console.cloud.google.com/bigquery?sq=450854397335:f6e0ae0e1322400e8f236a08a46514af)
+
+[View BigQuery SQL](https://github.com/shvetsihorr/SQL-Projects/blob/fc38bb18e8db4a3c14e7cd1e6501e5c08fabd5ee/BigQuery%20Data%20Preparation%20for%20BI%20Reporting%20using%20Google%20BigQuery.sql)
+
+<img width="1464" alt=" Data Preparation for BI Reporting using Google BigQuery" src="https://github.com/user-attachments/assets/1f2e7b65-508b-488c-b676-308f1ec851a2">
+
 
 
 
