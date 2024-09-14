@@ -77,7 +77,7 @@ This analysis provided insights into how conversions progress through different 
 
 <img width="1470" alt="Conversion Calculation by Date and Traffic Channel" src="https://github.com/user-attachments/assets/d95a81df-55cd-4664-9162-2b9184ebee2c">
 
-## Project 7. Comparison of Conversion Rates Between Different Landing Pages
+## Project 7. Comparison of Conversion Rates Between Different Landing Pages using Google BigQuery
 
 For this task, I analyzed conversion rates across different landing pages.
 Objective: I created a query to extract the page_path from the page_location in session start events for the year 2020. For each unique landing page, I calculated:
@@ -96,6 +96,24 @@ This analysis provided insights into how different landing pages perform in term
 
 <img width="1385" alt="Comparison of Conversion Rates Between Different Landing Pages" src="https://github.com/user-attachments/assets/2a35c45a-9039-493f-a4c0-b0fe6e68dcbf">
 
+## Project 8. Correlation Analysis Between User Engagement and Purchases using Google BigQuery
 
+For this task, I assessed the correlation between user engagement and purchase behavior. I determined for each unique session:
+- Whether the user was engaged (if session_engaged parameter equals ‘1’).
+- The total engagement time during the session (sum of engagement_time_msec across events).
+- Whether a purchase occurred during the session.
+
+I then calculated the correlation coefficients:
+
+- Between user engagement and purchase occurrence.
+- Between total engagement time and purchase occurrence.
+
+I merged session start events with other session events using user and session identifiers to ensure accurate correlation analysis.
+
+[View Project on Google BigQuery if you have an account](https://console.cloud.google.com/bigquery?sq=450854397335:307578fcb5cf4a2e948e76f160aa3215)
+
+[View BigQuery SQL as download file](https://github.com/shvetsihorr/SQL-Projects/blob/1edaa46ff6e6e641ed3154a2673ca337ec639227/Correlation%20Analysis%20Between%20User%20Engagement%20and%20Purchases%20using%20Google%20BigQuery.sql)
+
+<img width="1355" alt="Correlation Analysis Between User Engagement and Purchases" src="https://github.com/user-attachments/assets/ee52b29a-cd4a-4dcd-9f09-e93899114659">
 
 
