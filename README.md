@@ -34,3 +34,17 @@ This project highlights my SQL skills in merging data, calculating marketing met
 
 <img width="614" alt="Campaign ROMI Analysis with SQL" src="https://github.com/user-attachments/assets/d0e43738-15cf-42b6-9bca-1b36705d0c89">
 
+## Project 4: Metrics Calculation and UTM Campaign Tracking with SQL
+
+In this project, I used SQL to merge daily performance data from both Facebook and Google Ads into a unified dataset. I extracted key UTM campaign parameters and calculated essential advertising metrics such as CTR, CPC, CPM, and ROMI. The process involved handling null values, applying regular expressions to retrieve UTM parameters, and using CASE statements to avoid division errors. This project showcases my ability to work with large datasets, perform detailed campaign analysis, and generate actionable insights for marketing performance tracking.
+
+[View SQL query](https://github.com/shvetsihorr/SQL-Projects/blob/cea751891831a824f4240ffc47d349d38bc3076a/Metrics%20and%20UTM%20Campaign%20Tracking%20with%20SQL.sql)
+
+<img width="1469" alt="UTM Campaign Tracking and Metrics Calculation" src="https://github.com/user-attachments/assets/28a8a084-9366-4044-bc05-55c7fea581b8">
+
+
+
+
+
+
+
