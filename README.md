@@ -77,8 +77,24 @@ This analysis provided insights into how conversions progress through different 
 
 <img width="1470" alt="Conversion Calculation by Date and Traffic Channel" src="https://github.com/user-attachments/assets/d95a81df-55cd-4664-9162-2b9184ebee2c">
 
+## Project 7. Comparison of Conversion Rates Between Different Landing Pages
 
+For this task, I analyzed conversion rates across different landing pages.
+Objective: I created a query to extract the page_path from the page_location in session start events for the year 2020. For each unique landing page, I calculated:
 
+- The number of unique sessions by unique users.
+- The number of purchases.
+- The conversion rate from session start to purchase.
+
+Note: Since session start and purchase events may have different URLs, I merged these events using user and session identifiers to ensure accurate conversion tracking.
+
+This analysis provided insights into how different landing pages perform in terms of driving conversions.
+
+[View Project on Google BigQuery if you have an account](https://console.cloud.google.com/bigquery?sq=450854397335:1d00f422ab3e4b49979d80373f5f2a13)
+
+[View BigQuery SQL as download file](https://github.com/shvetsihorr/SQL-Projects/blob/88569480d9cc22fac289a54a948f9926570c6e37/BigQuery%20Comparison%20of%20Conversion%20Rates%20Between%20Different%20Landing%20Pages.sql)
+
+<img width="1385" alt="Comparison of Conversion Rates Between Different Landing Pages" src="https://github.com/user-attachments/assets/2a35c45a-9039-493f-a4c0-b0fe6e68dcbf">
 
 
 
