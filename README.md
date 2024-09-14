@@ -42,6 +42,12 @@ In this project, I used SQL to merge daily performance data from both Facebook a
 
 <img width="1469" alt="UTM Campaign Tracking and Metrics Calculation" src="https://github.com/user-attachments/assets/28a8a084-9366-4044-bc05-55c7fea581b8">
 
+## Project 4.1: 
+
+For this project, I built on a previous SQL task to analyze monthly ad performance. I used Common Table Expressions (CTEs) to group data by the first day of the ad month, aggregating metrics such as total spend, impressions, clicks, conversion value, CTR, CPC, CPM, and ROMI.
+
+In this SQL query, I introduced a calculation to compare CPM, CTR, and ROMI performance month-over-month for each UTM campaign, expressed as a percentage change. This project demonstrates my ability to perform advanced data aggregation, time-based comparisons, and insights generation for marketing performance analysis.
+
 
 
 
