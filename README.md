@@ -12,18 +12,16 @@ LinkedIn [Ihor Shvets](https://www.linkedin.com/in/ihorshvets/), Email: [shvets.
 ## Table of Contents
 
 - [Projects](#projects)
-  - [Project 1: Daily Campaign Performance Metrics](project-1-daily-campaign-performance-metrics)
-  - [Project 2: Combining Facebook and Google Ads Data](project-2-combining-facebook-and-google-ads-data)
-  - [Project 3.1: Campaign Performance Analysis Across Facebook and Google Ads](project-3-campaign-performance-analysis-across-facebook-and-google-ads)
-    - [Project 3.2 Campaign ROMI Analysis with SQL](campaign-romi-analysis-with-sql)
-  - [Project 4: Metrics Calculation and UTM Campaign Tracking with SQL](project-4-metrics-calculation-and-utm-campaign-tracking-with-sql)
-    - [Project 4.2: Month-over-Month Differences for CPC, CPM, and ROMI by UTM Campaign](#project-42-calculating-month-over-month-differences-for-cpc-cpm-and-romi-by-utm-campaign)
-  - [Project 5: Data Preparation for BI Reporting using Google BigQuery](project-5-data-preparation-for-bi-reporting-using-google-bigquery)
-  - [Project 6: Conversion Calculation by Date and Traffic Channel using Google BigQuery](#project-6-conversion-calculation-by-date-and-traffic-channel-using-google-bigquery)
-  - [Project 7: Comparison of Conversion Rates Between Different Landing Pages using Google BigQuery](project-7-comparison-of-conversion-rates-between-different-landing-pages-using-google-bigquery)
-  - [Project 8: Correlation Analysis Between User Engagement and Purchases using Google BigQuery](project-8-correlation-analysis-between-user-engagement-and-purchases-using-google-bigquery)
-- [Skills Demonstrated](skills-demonstrated)
-- [Contact](contact)
+  - [Project 1: Daily Campaign Performance Metrics](#project-1-daily-campaign-performance-metrics)
+  - [Project 2: Combining Facebook and Google Ads Data](#project-2-combining-facebook-and-google-ads-data)
+  - [Project 3.1: Campaign Performance Analysis Across Facebook and Google Ads](#project-31-campaign-performance-analysis-across-facebook-and-google-ads)
+  - [Project 3.2: Campaign ROMI Analysis with SQL](#project-32-campaign-romi-analysis-with-sql)
+  - [Project 4: Metrics Calculation and UTM Campaign Tracking with SQL](#project-4-metrics-calculation-and-utm-campaign-tracking-with-sql)
+  - [Project 5: Data Preparation for BI Reporting using Google BigQuery](#project-5-data-preparation-for-bi-reporting-using-google-bigquery)
+  - [Project 6: Conversion Calculation by Date and Traffic Channel](#project-6-conversion-calculation-by-date-and-traffic-channel)
+  - [Project 7: Comparison of Conversion Rates Between Different Landing Pages](#project-7-comparison-of-conversion-rates-between-different-landing-pages)
+  - [Project 8: Correlation Analysis Between User Engagement and Purchases](#project-8-correlation-analysis-between-user-engagement-and-purchases)
+- [Skills Demonstrated](#skills-demonstrated)
 
 
 ## Projects:
