@@ -63,6 +63,21 @@ In this project, I practiced writing SQL queries in BigQuery using the free Goog
 <img width="1464" alt=" Data Preparation for BI Reporting using Google BigQuery" src="https://github.com/user-attachments/assets/1f2e7b65-508b-488c-b676-308f1ec851a2">
 
 
+## Project 6: Conversion Calculation by Date and Traffic Channel using Google BigQuery
+
+For this task, I created a query to calculate conversions from session start to purchase, segmented by date and traffic channel.
+
+Note: The query considered both session and user IDs to ensure accurate counts of unique sessions by unique users, as different users might have the same session IDs.
+
+This analysis provided insights into how conversions progress through different stages of the user journey, segmented by date and traffic channel.
+
+[View Project on Google BigQuery if you have an account](https://console.cloud.google.com/bigquery?sq=450854397335:1ad7f81432424c209dcf7e359b8c61b4)
+
+[View BigQuery SQL as download file](https://github.com/shvetsihorr/SQL-Projects/blob/fa9fb14e9c05db5a098d7b09e855c01072a30b78/BigQuery%20-Conversion%20Calculation%20by%20Date%20and%20Traffic%20Channel%20using%20Google.sql)
+
+<img width="1470" alt="Conversion Calculation by Date and Traffic Channel" src="https://github.com/user-attachments/assets/d95a81df-55cd-4664-9162-2b9184ebee2c">
+
+
 
 
 
