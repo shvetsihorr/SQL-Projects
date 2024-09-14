@@ -48,6 +48,10 @@ For this project, I built on a previous SQL task to analyze monthly ad performan
 
 In this SQL query, I introduced a calculation to compare CPM, CTR, and ROMI performance month-over-month for each UTM campaign, expressed as a percentage change. This project demonstrates my ability to perform advanced data aggregation, time-based comparisons, and insights generation for marketing performance analysis.
 
+[View SQL query](https://github.com/shvetsihorr/SQL-Projects/blob/bab6eee9eeef8a687ed634269fbcb3e64c1632b6/Calculating%20Month-over-Month%20Differences%20for%20CPC%2C%20CPM%2C%20and%20ROMI%20by%20UTM%20Campaign.sql)
+
+<img width="1468" alt="Calculating Month-over-Month Differences for CPC, CPM, and ROMI by UTM Campaign" src="https://github.com/user-attachments/assets/694c658d-00c4-485e-98dd-3b5a09dac02a">
+
 
 
 
