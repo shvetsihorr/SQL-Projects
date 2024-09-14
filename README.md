@@ -22,6 +22,7 @@ LinkedIn [Ihor Shvets](https://www.linkedin.com/in/ihorshvets/), Email: [shvets.
   - [Project 7: Comparison of Conversion Rates Between Different Landing Pages](#project-7-comparison-of-conversion-rates-between-different-landing-pages)
   - [Project 8: Correlation Analysis Between User Engagement and Purchases](#project-8-correlation-analysis-between-user-engagement-and-purchases)
 - [Skills Demonstrated](#skills-demonstrated)
+- [Contact](#contact)
 
 
 ## Projects:
