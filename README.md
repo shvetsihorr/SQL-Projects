@@ -19,8 +19,8 @@ LinkedIn [Ihor Shvets](https://www.linkedin.com/in/ihorshvets/), Email: [shvets.
   - [Project 4: Metrics Calculation and UTM Campaign Tracking with SQL](#project-4-metrics-calculation-and-utm-campaign-tracking-with-sql)
   - [Project 5: Data Preparation for BI Reporting using Google BigQuery](#project-5-data-preparation-for-bi-reporting-using-google-bigquery)
   - [Project 6: Conversion Calculation by Date and Traffic Channel using Google BigQuery](#project-6-conversion-calculation-by-date-and-traffic-channel-using-google-bigquery)
-  - [Project 7: Comparison of Conversion Rates Between Different Landing Pages](#project-7-comparison-of-conversion-rates-between-different-landing-pages)
-  - [Project 8: Correlation Analysis Between User Engagement and Purchases](#project-8-correlation-analysis-between-user-engagement-and-purchases)
+  - [Project 7: Comparison of Conversion Rates Between Different Landing Pages using Google BigQuery](#project-7-comparison-of-conversion-rates-between-different-landing-pages-using-google-bigquery)
+  - [Project 8: Correlation Analysis Between User Engagement and Purchases using Google BigQuery](#project-8-correlation-analysis-between-user-engagement-and-purchases-using-google-bigquery)
 - [Skills Demonstrated](#skills-demonstrated)
 - [Contact](#contact)
 
